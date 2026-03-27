@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { ScanLine, MonitorSmartphone, Cpu, ShieldCheck, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import dentalTeam from "@/assets/gallery/dental-team.jpg";
+import clinicBuilding from "@/assets/clinic-building.jpg";
 
 const techItems = [
   { icon: ScanLine, title: "Digital Intraoral Scanners", desc: "3D imaging for precise diagnosis" },
