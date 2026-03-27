@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Shield, Heart, Sparkles, Users, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import waitingArea from "@/assets/gallery/waiting-area.jpg";
+import waitingArea from "@/assets/modern-dental-office.jpg";
 import clinicEntrance from "@/assets/gallery/clinic-entrance.jpg";
 import loungeArea from "@/assets/gallery/lounge-area.jpg";
 

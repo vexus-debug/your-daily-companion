@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { ScanLine, MonitorSmartphone, Cpu, ShieldCheck, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import dentalTeam from "@/assets/gallery/dental-team.jpg";
+import clinicBuilding from "@/assets/clinic-building.jpg";
 
 const techItems = [
   { icon: ScanLine, title: "Digital Intraoral Scanners", desc: "3D imaging for precise diagnosis" },
@@ -62,7 +62,7 @@ const TechnologySection = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
           >
-            <img src={dentalTeam} alt="Our expert dental team at work" className="rounded-2xl shadow-elevated w-full h-[450px] object-cover" />
+            <img src={clinicBuilding} alt="Smile 365 Dental Clinic building" className="rounded-2xl shadow-elevated w-full h-[450px] object-cover" />
           </motion.div>
         </div>
       </div>

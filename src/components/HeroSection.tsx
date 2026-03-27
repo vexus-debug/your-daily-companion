@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { ArrowRight, Star, Phone, ChevronDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import treatmentImg from "@/assets/gallery/treatment-procedure.jpg";
+import treatmentImg from "@/assets/patient-treatment.jpg";
 import receptionImg from "@/assets/gallery/reception-desk.jpg";
 import treatmentRoomImg from "@/assets/gallery/treatment-room.jpg";
 import dentalTeamImg from "@/assets/gallery/dental-team.jpg";
