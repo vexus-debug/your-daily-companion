@@ -62,7 +62,7 @@ const TechnologySection = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
           >
-            <img src={dentalTeam} alt="Our expert dental team at work" className="rounded-2xl shadow-elevated w-full h-[450px] object-cover" />
+            <img src={clinicBuilding} alt="Smile 365 Dental Clinic building" className="rounded-2xl shadow-elevated w-full h-[450px] object-cover" />
           </motion.div>
         </div>
       </div>

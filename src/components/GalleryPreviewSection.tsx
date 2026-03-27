@@ -8,13 +8,16 @@ import treatmentRoom from "@/assets/gallery/treatment-room.jpg";
 import dentalTeam from "@/assets/gallery/dental-team.jpg";
 import loungeArea from "@/assets/gallery/lounge-area.jpg";
 import anniversaryBanner from "@/assets/gallery/anniversary-banner.jpg";
+import patientTreatment from "@/assets/patient-treatment.jpg";
+import modernOffice from "@/assets/modern-dental-office.jpg";
+import clinicBuilding from "@/assets/clinic-building.jpg";
 
 const images = [
   { src: clinicEntrance, alt: "Clinic entrance", span: "col-span-2 row-span-2" },
-  { src: waitingArea, alt: "Waiting area", span: "col-span-1 row-span-1" },
-  { src: treatmentRoom, alt: "Treatment room", span: "col-span-1 row-span-1" },
+  { src: patientTreatment, alt: "Patient receiving treatment", span: "col-span-1 row-span-1" },
+  { src: modernOffice, alt: "Modern dental office", span: "col-span-1 row-span-1" },
   { src: dentalTeam, alt: "Our dental team", span: "col-span-1 row-span-2" },
-  { src: loungeArea, alt: "Lounge area", span: "col-span-1 row-span-1" },
+  { src: clinicBuilding, alt: "Smile 365 Dental Clinic", span: "col-span-1 row-span-1" },
   { src: anniversaryBanner, alt: "Anniversary celebration", span: "col-span-1 row-span-1" },
 ];
 
