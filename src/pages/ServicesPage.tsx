@@ -269,7 +269,7 @@ const ServicesPage = () => {
               Not Sure Which Service You Need?
             </h2>
             <p className="font-body text-muted-foreground max-w-xl mx-auto mb-8">
-              Book a free consultation and let our experts recommend the right treatment plan for you.
+              Book a consultation and let our experts recommend the right treatment plan for you.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <BookingDialog />

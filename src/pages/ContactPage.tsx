@@ -224,16 +224,16 @@ const ContactPage = () => {
 
             {/* Sidebar */}
             <motion.div {...fadeUp} className="lg:col-span-2 space-y-6">
-              {/* Free Consultation Card */}
+              {/* Consultation Card */}
               <div className="bg-gradient-hero rounded-2xl p-8 text-primary-foreground">
                 <div className="text-4xl mb-4">🦷</div>
-                <h3 className="font-display text-2xl font-bold mb-2">Free Consultation</h3>
+                <h3 className="font-display text-2xl font-bold mb-2">Expert Consultation</h3>
                 <p className="font-body text-sm opacity-80 mb-6">
-                  Get professional dental advice from our expert dentists at absolutely no cost. Available at all branches.
+                  Get professional dental advice from our expert dentists. Available at all branches.
                 </p>
                 <Button variant="secondary" asChild className="w-full">
-                  <a href="https://wa.me/2348165257737?text=Hello%2C%20I%20would%20like%20to%20book%20a%20free%20consultation" target="_blank" rel="noopener noreferrer">
-                    Book Free Consultation
+                  <a href="https://wa.me/2348165257737?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation" target="_blank" rel="noopener noreferrer">
+                    Book Consultation
                   </a>
                 </Button>
               </div>

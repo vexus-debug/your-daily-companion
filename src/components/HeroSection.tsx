@@ -188,7 +188,7 @@ const HeroSection = () => {
                   <span className="text-xl">🦷</span>
                 </div>
                 <div>
-                  <div className="font-display font-bold text-foreground text-sm">Free Consultation</div>
+                  <div className="font-display font-bold text-foreground text-sm">Expert Consultation</div>
                   <div className="text-[11px] text-muted-foreground font-body">All 3 branches</div>
                 </div>
               </div>
