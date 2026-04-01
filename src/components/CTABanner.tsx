@@ -37,8 +37,7 @@ const CTABanner = () => {
           </h2>
 
           <p className="font-body text-primary-foreground/75 text-base md:text-lg max-w-xl mx-auto mb-10 leading-relaxed">
-            Your first consultation is completely free. No pressure, no obligation — 
-            just honest, professional advice about your dental health.
+            No pressure, no obligation — just honest, professional advice about your dental health.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
