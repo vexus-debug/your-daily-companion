@@ -50,7 +50,7 @@ const contactMethods = [
 
 const faqs = [
   { q: "Do I need to book an appointment?", a: "While walk-ins are welcome, we recommend booking an appointment to ensure availability and minimize wait times." },
-  { q: "Is the consultation really free?", a: "Yes! We offer free initial consultations at all our branches. Our dentists will assess your oral health and recommend a treatment plan at no cost." },
+  { q: "How do I book a consultation?", a: "You can book a consultation at any of our branches by calling, sending a WhatsApp message, or filling out the form on this page." },
   { q: "Do you accept health insurance?", a: "Yes, we work with several HMO and insurance providers. Please contact your nearest branch to confirm your specific plan." },
   { q: "What should I bring to my first visit?", a: "Please bring a valid ID, any previous dental records or X-rays, and your insurance card if applicable." },
   { q: "Are payment plans available?", a: "Yes, we offer flexible payment plans for many treatments. Discuss options with our team during your consultation." },
