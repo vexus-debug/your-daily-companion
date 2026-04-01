@@ -50,7 +50,7 @@ const contactMethods = [
 
 const faqs = [
   { q: "Do I need to book an appointment?", a: "While walk-ins are welcome, we recommend booking an appointment to ensure availability and minimize wait times." },
-  { q: "Is the consultation really free?", a: "Yes! We offer free initial consultations at all our branches. Our dentists will assess your oral health and recommend a treatment plan at no cost." },
+  { q: "How do I book a consultation?", a: "You can book a consultation at any of our branches by calling, sending a WhatsApp message, or filling out the form on this page." },
   { q: "Do you accept health insurance?", a: "Yes, we work with several HMO and insurance providers. Please contact your nearest branch to confirm your specific plan." },
   { q: "What should I bring to my first visit?", a: "Please bring a valid ID, any previous dental records or X-rays, and your insurance card if applicable." },
   { q: "Are payment plans available?", a: "Yes, we offer flexible payment plans for many treatments. Discuss options with our team during your consultation." },
@@ -224,16 +224,16 @@ const ContactPage = () => {
 
             {/* Sidebar */}
             <motion.div {...fadeUp} className="lg:col-span-2 space-y-6">
-              {/* Free Consultation Card */}
+              {/* Consultation Card */}
               <div className="bg-gradient-hero rounded-2xl p-8 text-primary-foreground">
                 <div className="text-4xl mb-4">🦷</div>
-                <h3 className="font-display text-2xl font-bold mb-2">Free Consultation</h3>
+                <h3 className="font-display text-2xl font-bold mb-2">Expert Consultation</h3>
                 <p className="font-body text-sm opacity-80 mb-6">
-                  Get professional dental advice from our expert dentists at absolutely no cost. Available at all branches.
+                  Get professional dental advice from our expert dentists. Available at all branches.
                 </p>
                 <Button variant="secondary" asChild className="w-full">
-                  <a href="https://wa.me/2348165257737?text=Hello%2C%20I%20would%20like%20to%20book%20a%20free%20consultation" target="_blank" rel="noopener noreferrer">
-                    Book Free Consultation
+                  <a href="https://wa.me/2348165257737?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation" target="_blank" rel="noopener noreferrer">
+                    Book Consultation
                   </a>
                 </Button>
               </div>

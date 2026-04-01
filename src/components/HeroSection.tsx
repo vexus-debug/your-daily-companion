@@ -82,7 +82,7 @@ const HeroSection = () => {
             >
               <Button size="lg" asChild className="text-base px-8 shadow-elevated">
                 <Link to="/contact">
-                  Book Free Consultation
+                  Book Appointment
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </Link>
               </Button>
@@ -188,7 +188,7 @@ const HeroSection = () => {
                   <span className="text-xl">🦷</span>
                 </div>
                 <div>
-                  <div className="font-display font-bold text-foreground text-sm">Free Consultation</div>
+                  <div className="font-display font-bold text-foreground text-sm">Expert Consultation</div>
                   <div className="text-[11px] text-muted-foreground font-body">All 3 branches</div>
                 </div>
               </div>

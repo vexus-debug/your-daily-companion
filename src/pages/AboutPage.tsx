@@ -266,10 +266,10 @@ const AboutPage = () => {
               Come see what everyone's talking about.
             </h2>
             <p className="font-body text-primary-foreground/70 max-w-xl mx-auto mb-8">
-              Your first consultation is free. No pressure, no obligation — just honest advice about your dental health.
+              No pressure, no obligation — just honest advice about your dental health.
             </p>
             <Button size="lg" variant="secondary" asChild>
-              <Link to="/contact">Book a Free Consultation</Link>
+              <Link to="/contact">Book an Appointment</Link>
             </Button>
           </motion.div>
         </div>

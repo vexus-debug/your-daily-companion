@@ -37,14 +37,13 @@ const CTABanner = () => {
           </h2>
 
           <p className="font-body text-primary-foreground/75 text-base md:text-lg max-w-xl mx-auto mb-10 leading-relaxed">
-            Your first consultation is completely free. No pressure, no obligation — 
-            just honest, professional advice about your dental health.
+            No pressure, no obligation — just honest, professional advice about your dental health.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="secondary" asChild className="text-base px-8 shadow-elevated">
               <Link to="/contact">
-                Book Free Consultation
+                Book Consultation
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
             </Button>

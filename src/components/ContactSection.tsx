@@ -19,7 +19,7 @@ const ContactSection = () => {
               Book Your <span className="text-primary">Appointment</span>
             </h2>
             <p className="font-body text-muted-foreground max-w-xl mx-auto">
-              Ready for a healthier, brighter smile? Contact us today to schedule your free consultation.
+              Ready for a healthier, brighter smile? Contact us today to schedule your appointment.
             </p>
           </motion.div>
 
@@ -67,9 +67,9 @@ const ContactSection = () => {
 
               <div className="flex flex-col justify-center items-center text-center p-8 bg-secondary/50 rounded-2xl">
                 <div className="text-5xl mb-4">🦷</div>
-                <h3 className="font-display text-xl font-bold text-foreground mb-2">Free Consultation</h3>
+                <h3 className="font-display text-xl font-bold text-foreground mb-2">Expert Consultation</h3>
                 <p className="font-body text-sm text-muted-foreground mb-6">
-                  Get professional dental advice from our expert dentists at no cost.
+                  Get professional dental advice from our expert dentists.
                 </p>
                 <Button size="lg" asChild className="w-full max-w-xs">
                   <Link to="/contact">Book Appointment</Link>
