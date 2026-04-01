@@ -19,7 +19,7 @@ const ContactSection = () => {
               Book Your <span className="text-primary">Appointment</span>
             </h2>
             <p className="font-body text-muted-foreground max-w-xl mx-auto">
-              Ready for a healthier, brighter smile? Contact us today to schedule your free consultation.
+              Ready for a healthier, brighter smile? Contact us today to schedule your appointment.
             </p>
           </motion.div>
 
