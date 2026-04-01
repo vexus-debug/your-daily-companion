@@ -82,7 +82,7 @@ const HeroSection = () => {
             >
               <Button size="lg" asChild className="text-base px-8 shadow-elevated">
                 <Link to="/contact">
-                  Book Free Consultation
+                  Book Appointment
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </Link>
               </Button>
